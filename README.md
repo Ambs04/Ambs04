@@ -13,7 +13,7 @@ I'm an aspiring Software Developer who lives in Cape Town, South Africa. I am cu
 
 
 <!--Projects showcase -->
-## Alt-H2 My Projects:
+Alt-H2 ## My Projects:
 
 
 <!--Social Links -->
