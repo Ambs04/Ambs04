@@ -14,10 +14,10 @@ I'm an aspiring Software Developer who lives in Cape Town, South Africa. I am cu
 
 <!--Projects showcase -->
 ## My Projects:
-<img src="mod5.gif"/>
-<img src="mod7.gif"/>
-<img src="mod8.gif"/>
-<img src="mod9.gif"/>
+<img src="mod_5.gif"/>
+<img src="mod_7.gif"/>
+<img src="mod_8.gif"/>
+<img src="mod_9.gif"/>
 
 <!--Social Links -->
 
