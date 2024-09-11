@@ -14,7 +14,7 @@ I'm an aspiring Software Developer who lives in Cape Town, South Africa. I am cu
 
 <!--Projects showcase -->
 ## My Projects:
-<img src="mod_5.gif" width="600" height="450"/> <img src="mod_7.gif" width="600" height="450"/>
+<img src="mod_5.gif" width="600" height="450" style= "object-fit:cover"/> <img src="mod_7.gif" width="600" height="450"/>
 <img src="mod_8.gif" width="600" height="450"/> <img src="mod_9.gif" width="600" height="450"/>
 
 <!--Social Links -->
