@@ -1,5 +1,5 @@
 <!--My Introduction -->
-# Hi there, I am Amber Jones. 
+# Hi there, I am Amber Jones 🧕🏻
 I'm an aspiring Software Developer who lives in Cape Town, South Africa. I am currently a student at CodeSpace Academy and am enrolled in the Software Development Program. I am passionate about learning new coding languages and tools to make my projects next-level. I enjoy putting my coding skills to the test and solve problems. 
 
 My career goals are to become full stack and study further in the subject of software architecture. And later on after more experience I hope to volunteer my time teaching young aspiring developers. My current confidence lies in frontend development.
@@ -48,6 +48,15 @@ My career goals are to become full stack and study further in the subject of sof
 <img src="mod_8.gif" width="400" height="300"/> <img src="mod_9.gif" width="400" height="300"/>
 
 <!--Social Links -->
+## Socials:
+<div>
+	<code><a href="https://www.linkedin.com/in/amber-jones-9b8672324/"><img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-			png_18930585_835.png" alt="LinkedIn-icon" width="30px" height="30px"/></a></code>
+ 	<code><a href=""><img src=""/></a></code>
+  	<code><a href=""><img src=""/></a></code>
+
+ 
+</div>
+
 
 <!--Contact info -->
 
