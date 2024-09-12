@@ -19,6 +19,13 @@ My career goals are to become full stack and study further in the subject of sof
 * Coding languages
 * Arabic
 
+<!--Fun facts about me -->
+## Some fun facts about me:
+
+* 📝 I can read and write in Arabic (with some undertsanding 😅)
+* I love K-dramas 🎭
+* I can sing 🎤
+
 ## My Stats:
 
 ![Ambs04's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambs04&show_icons=true)
