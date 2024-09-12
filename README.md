@@ -32,6 +32,9 @@ My career goals are to become full stack and study further in the subject of sof
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 </div>
 
+## My Stats:
+
+
 <!--Languages -->
 ## Languages:
 <div>
@@ -40,7 +43,6 @@ My career goals are to become full stack and study further in the subject of sof
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	
 </div>
-
 
 <!--Projects showcase -->
 ## My Projects:
@@ -54,11 +56,7 @@ My career goals are to become full stack and study further in the subject of sof
  	<code><a href="https://discord.com/channels/@me"><img src="https://static.vecteezy.com/system/resources/previews/006/892/622/non_2x/discord-logo-icons-editorial-collection-free-vector.jpg" alt="Discord-icon" width="40px" height="40px"/></a></code>
   	<code><a href="https://codepen.io/AmberJones04"><img src="https://cdn.create.vista.com/api/media/small/470871910/stock-vector-outlined-shape-silver-plated-metallic-icon" alt="Codepen.io-icon" width="40px" height="40px"/></a></code>
 
- 
 </div>
 
-
 <!--Contact info -->
-
-
 
