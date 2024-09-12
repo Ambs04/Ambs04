@@ -19,6 +19,10 @@ My career goals are to become full stack and study further in the subject of sof
 * Coding languages
 * Arabic
 
+## My Stats:
+
+![Ambs04's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambs04&show_icons=true)
+
 <!--Technologies and Frameworks -->
 ## My Technologies and Frameworks:
 <div >
@@ -40,10 +44,6 @@ My career goals are to become full stack and study further in the subject of sof
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	
 </div>
-
-## My Stats:
-
-![Ambs04's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambs04&show_icons=true)
 
 <!--Projects showcase -->
 ## My Projects:
