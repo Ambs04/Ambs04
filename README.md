@@ -51,13 +51,10 @@ My career goals are to become full stack and study further in the subject of sof
 <img src="mod_8.gif" width="400" height="300"/> <img src="mod_9.gif" width="400" height="300"/>
 
 <!--Social Links -->
-## Socials:
+## Socials to connect with me:
 <div>
 	<code><a href="https://www.linkedin.com/in/amber-jones-9b8672324/"><img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835.png" alt="LinkedIn-icon" width="40px" height="40px"/></a></code>
  	<code><a href="https://discord.com/channels/@me"><img src="https://static.vecteezy.com/system/resources/previews/006/892/622/non_2x/discord-logo-icons-editorial-collection-free-vector.jpg" alt="Discord-icon" width="40px" height="40px"/></a></code>
   	<code><a href="https://codepen.io/AmberJones04"><img src="https://cdn.create.vista.com/api/media/small/470871910/stock-vector-outlined-shape-silver-plated-metallic-icon" alt="Codepen.io-icon" width="40px" height="40px"/></a></code>
 
 </div>
-
-<!--Contact info -->
-
